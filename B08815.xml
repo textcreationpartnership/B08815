@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession and execution of the six prisoners that suffered at Tyburn on Wednesday the 22th of may, 1678. at which time were executed John Cross, George Blake, William Stone, [brace] Humphry Hulin, Thomas Constable, Rose Goodman.  As also of Charles Pamplin, who was executed the same day in Covent-Garden for murdering Lieutenant Dalison.  With a true account of their behaviour in Newgate from the time of their condemnation and last speeches at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08815</idno>
+            <idno type="STC">Wing C5756AA</idno>
+            <idno type="STC">ESTC R217287</idno>
+            <idno type="EEBO-CITATION">64551127</idno>
+            <idno type="OCLC">ocm 64551127</idno>
+            <idno type="VID">184488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184488)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession and execution of the six prisoners that suffered at Tyburn on Wednesday the 22th of may, 1678. at which time were executed John Cross, George Blake, William Stone, [brace] Humphry Hulin, Thomas Constable, Rose Goodman.  As also of Charles Pamplin, who was executed the same day in Covent-Garden for murdering Lieutenant Dalison.  With a true account of their behaviour in Newgate from the time of their condemnation and last speeches at the place of execution.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D. M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cross, John.</term>
+               <term>Blake, George.</term>
+               <term>Stone, William.</term>
+               <term>Hulin, Humphry.</term>
+               <term>Constable, Thomas.</term>
+               <term>Goodman, Rose.</term>
+               <term>Pamplin, Charles.</term>
+               <term>Dalison, --  Lieutenant.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Trials (Murder) --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184488:1"/>
+            <p>THE CONFESSION AND EXECUTION Of the Six Priſoners that ſuffered at TYBURN On <hi>Wedneſday</hi> the 22th of <hi>May,</hi> 1678.</p>
+            <p>At which time were Executed</p>
+            <list>
+               <item>John Croſs,</item>
+               <item>George Blake,</item>
+               <item>William Stone,</item>
+               <item>Humphry Hulin,</item>
+               <item>Thomas Conſtable,</item>
+               <item>Roſe Goodman.</item>
+            </list>
+            <p>As alſo of <hi>Charles Pamplin,</hi> who was Executed the ſame day in <hi>Covent-garden,</hi> for Murdering Lieutenant <hi>Daliſon.</hi>
+            </p>
+            <p>With a true Account of their Behaviour in Newgate from the time of their Condemnation, and laſt Speeches at the place of Execution.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:184488:2"/>
+            <pb facs="tcp:184488:2" rendition="simple:additions"/>
+            <pb n="2" facs="tcp:184488:3" rendition="simple:additions"/>
+            <head>The Confeſſion and Execution of the Priſoners ſuffering at <hi>Tyburn.</hi>
+            </head>
+            <p>OF theſe unhappy wretches who now became neceſſary Sacrifices to Ju<g ref="char:EOLhyphen"/>ſtice, he that occaſioned moſt diſ<g ref="char:EOLhyphen"/>courſe, as well by reaſon of his being gene<g ref="char:EOLhyphen"/>rally known, as by the heinouſneſs of his Crime, being the death of a very worthy Gentleman, was a perſon that being hereto<g ref="char:EOLhyphen"/>fore in a very good place, might have liv'd as comfortably and genteely as any man of his Rank could have wiſht; but extrava<g ref="char:EOLhyphen"/>gance ſtill wanting Supplies, put him upon wicked deſignes, loſt his Employ, and ſince which, having followed looſe irregular cour<g ref="char:EOLhyphen"/>ſes, he at laſt came to commit this bloody Crime for which he was now executed: the Particulars whereof having been already
+<pb n="3" facs="tcp:184488:3"/> publiſhed, need not here be repeated. When he came to receive Sentence of Death, he deſired time to prepare himſelf; to which the Court anſwered, that he ſhould have what was uſual and convenient, but caution'd him not to mock God, or flatter himſelf with vain hopes of a Reprieve, as many do under that pretence; but rather with all his might to humble himſelf and make his peace with God. Several Miniſters viſited him after his Condemnation, and earneſtly preſs'd him to a hearty Repentance, and that if any others were Confederates with, or Abetters of him in this barbarous Murder, he would disbur<g ref="char:EOLhyphen"/>then his Soul by diſcovering them: But he was at firſt ſo far from anſwering their expe<g ref="char:EOLhyphen"/>ctations therein, that he would give no full account of the Reaſons or Provocations that moved him to do it; nor would he for ſome time declare himſelf guilty of the Murder, but at laſt he did confeſs it, ſaying, It was upon an Affront that he could not bear; but expreſſed himſelf heartily ſorry for his cruel Rage, and deſired all that were preſent, to pray for him to Almighty God, that he might
+<pb n="4" facs="tcp:184488:4"/> obtain Pardon for that and all other his ma<g ref="char:EOLhyphen"/>nifold ſins.</p>
+            <p>After his Condemnation the generous Cha<g ref="char:EOLhyphen"/>rity of the Keeper of <hi>Newgate</hi> favoured him ſo far as to permit him to lie in the Preſs<g ref="char:EOLhyphen"/>yard, though he had not Money to defray the uſual Fees of that Lodging; where he was at laſt ſo far wrought upon, that never any man appeared more ſenſibly penitent: an Inſtance or two whereof (amongſt many others) we think fit here to recite. The day before his Execution he askt what it was a Clock, and being told paſt eleven, <hi>Ah, Lord,</hi> ſays he, <hi>where ſhall I be to morrow at this time?</hi> The ſame day a Barber coming to trim him, after he had waſht his hands very clean, looking upon them, he ſaid, <hi>Cleanſe, O God, my hands from Blood guiltineſs, and all my ſins as clean as they now appear from filth.</hi> Then taking a turn or two in the Chamber, <hi>God grant,</hi> ſays he, <hi>I may fear Death to morrow no more than I do to day: for I bleſs God I have now no dread upon my Spirits concerning the Death I am to ſuffer. I know 'tis juſt, and therefore will willingly</hi>
+               <pb n="5" facs="tcp:184488:4"/> 
+               <hi>undergo it; not doubting but the pretious Blood of my Saviour has attoned for that In<g ref="char:EOLhyphen"/>nocent Blood which I have raſhly and wic<g ref="char:EOLhyphen"/>kedly ſhed.</hi> And ſo continued in an un<g ref="char:EOLhyphen"/>daunted temper and frame of Spirit to the very laſt.</p>
+            <p>The whole night before he ſuffered, he ſpent in Devotion, continuing in Prayer with ſuch ar<g ref="char:EOLhyphen"/>dency of zeal, and ſuch apt Expreſſions of a broken heart, and yet humble Faith and Aſſu<g ref="char:EOLhyphen"/>rance in the Mercies of God, as the like was ſcarce ever heard in that place before, And ſo about ten a clock, was carried to the place of Execution, in <hi>Covent Garden,</hi> where he made a large Confeſſion of his ſins, and recommending his Soul to God in a moſt zealous Prayer, ſub<g ref="char:EOLhyphen"/>mitted to the Sentence.</p>
+            <p>
+               <hi>John Croſs, George Blake,</hi> and <hi>William Stone,</hi> were all of a Gang of that worſt ſort of High<g ref="char:EOLhyphen"/>way thieves, commonly called Foot padders, making it their buſineſs to lurk in the Roads neer <hi>London,</hi> and knock down and rob the Mar<g ref="char:EOLhyphen"/>ket people, (or others) in their return home<g ref="char:EOLhyphen"/>wards in the evening; Two Robberies of this kind they were now Executed for, one upon a Perſon paſſing on foot through King <hi>Harries</hi> Walk, who had but five ſhillings about him the other a Butcher on Horſe back in the High-way, not far from thence, from whom they took about three pound; nor were they content to rifle and bind them, but alſo barbarouſly without any
+<pb n="6" facs="tcp:184488:5"/> provocation, beat them ſeverely, ſwearing they would make them know the danger of travelling with ſo little Money. They committed ('tis be<g ref="char:EOLhyphen"/>lieved) ſeveral other Robberies the ſame night, and ſome it ſeems reſiſted them, for one of them was wounded in the Belly; the day they choſe for theſe Exploits, was the Execution day after the laſt Seſſions. And 'twas proved that they were all three Spectators at <hi>Tyburn,</hi> in a Coach, and yet ſo hardned were they in wickedneſs, that nothing diſmaid with the untimely and ſhameful ends of their Aſſociates, they imme<g ref="char:EOLhyphen"/>diately the ſame Evening return to act theſe Vil<g ref="char:EOLhyphen"/>lanies, which now juſtly brought them to be the next that ſhould ſucceed in that fatal place, and be made Examples themſelves, ſince they would take no warning by the ſad Examples of others, having long followed theſe ungodly Courſes: for <hi>George Blake</hi> was burnt in the hand about a year and a half ago, for ſtealing of Plate, and indicted laſt Summer Aſſizes in <hi>Surrey,</hi> for a Robbery: And <hi>William Stone</hi> had formerly broke <hi>Hartford</hi> Goal, whither he was commit<g ref="char:EOLhyphen"/>ted for the like offence.</p>
+            <p>One of them eſpecially appeared now very penitent, and made a large Confeſſion of his Crimes, ſpending his time wholly in Reading, Prayer, and bewailing his ſins.</p>
+            <p>
+               <hi>Humphry Hulin</hi> and <hi>Thomas Conſtable,</hi> two old Thieves, though but young men, ſuffered for ſtealing of ſeveral Horſes: A Trade they had long been acquainted with, and thereby almoſt ruined divers honeſt people.</p>
+            <pb n="7" facs="tcp:184488:5"/>
+            <p>And here we cannot but give notice of a grand Abuſe put upon the world in a Pamphlet printed for <hi>B. H.</hi> pretended to be a Narrative of the Proceedings at the laſt Seſſions: wherein is ſet forth, that a Conſtable was tryed for Horſe-ſtealing, but ſays he, <hi>upon Circumſtances of his Innocence, was cleared:</hi> whereas there was no Conſtable brought upon his Tryal.</p>
+            <p>
+               <hi>Roſe Wheeler, alias Goodman,</hi> a Woman grown old in wickedneſs, was Executed for two ſeve<g ref="char:EOLhyphen"/>ral Robberies Committed in Houſes where ſhe pretended to take Lodgings, thereby undoing ſeveral poor people, for ſhe had long made it her practice, and it ſeems brought up her Daugh<g ref="char:EOLhyphen"/>ter to the ſame profeſſion; for ſhe this Seſſions was likewiſe Arraigned for the like fact, but re<g ref="char:EOLhyphen"/>fuſed to plead, having heretofore been Con<g ref="char:EOLhyphen"/>demned for Stripping and Robbing of young Children, and often in <hi>Newgate</hi> for ſeveral other Thefts. Another young Woman was Condemned with her, but being ſuppoſed to be drawn in by her, obtained a Gracious Pardon: As likewiſe did another Woman and a young Man, who ſe<g ref="char:EOLhyphen"/>verally had robb'd their Maſters.</p>
+            <p>Theſe laſt mentioned Perſons having ſpent moſt part of their Lives in a continual ſeries of Wickedneſs, and Rebellion againſt God and all righteous Laws, it is no wonder if now, when they were overtaken by Juſtice, and had he amazing terrours of Death to grapple with, they were ſmitten with dreadful Horrours and Aſto<g ref="char:EOLhyphen"/>niſhment; from which both Mr. <hi>Ordinary</hi> and
+<pb n="8" facs="tcp:184488:6" rendition="simple:additions"/> other Godly Miniſters endeavoured to awake and relieve them, firſt by repreſenting to them the miſerable Condition they were in; that the Temporal Death, which moſt they fixt their thoughts upon, was nothing in compariſon of what was to ſucceed: And afterwards acquain<g ref="char:EOLhyphen"/>ted them, that there was yet a Way, and but only one, to prevent their everlaſting Miſery; which was a ſpeedy and ſerious Repentance, and laying hold on the Merits of their crucified Saviour, by a firm and lively Faith: By whoſe gracious Promiſes, and conſideration of his In<g ref="char:EOLhyphen"/>finite Mercies, they ſought to take them off both from Atheiſtical Inſenſibility on the one hand, and Deſpair on the other, and ſo ſet them in the path of Life, before they taſted of the bitter Cup of Death; and 'tis hoped, by the Grace and Bleſſing of God on their Labours, their pious Intentions towards theſe poor Souls were not in vain. For in their paſſage, and at the place of Execution, they behaved them<g ref="char:EOLhyphen"/>ſelves with all the marks of a ſincere Penitency, bewailing their former miſpent time, and horrid Impieties, imploring Mercy at the Throne of Grace, and deſiring all Spectators, by amend<g ref="char:EOLhyphen"/>ment of Life, to make a better uſe of their ſad Examples, than they themſelves had done of others ſuffering in the like ignominious manner.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184488:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
